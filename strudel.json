@@ -1,4 +1,5 @@
 {"_base":"https://raw.githubusercontent.com/jcpros/samples/main/", "bass":["bass/bass_atom.wav", "bass/bass_felt.wav", "bass/bass_round.wav"], "bleep":["bleep/bleep_1.wav", "bleep/bleep_2.wav",
 
  "bleep/bleep_3.wav", "bleep/bleep_4.wav", "bleep/bleep_5.wav"], "noisyn": ["noisyn/noisyn_1.wav","noisyn/noisyn_2.wav","noisyn/noisyn_3.wav","noisyn/noisyn_4.wav","noisyn/noisyn_5.wav","noisyn/noisyn_6.wav","noisyn/noisyn_7.wav","noisyn/noisyn_8.wav"], "particles":["particles/particles_1.wav", "particles/particles_2.wav"]
-"imp": ["imp/freeError.wav","imp/freeHigh.wav","imp/freeLow.wav","imp/freeLowRumble.wav","imp/freeLowShorter.wav", "imp/freeLowWobble.wav"], "vox": ["vox/CelliaSeeJam.wav", "vox/EmmaOhJam"]}
+"imp": ["imp/freeError.wav","imp/freeHigh.wav","imp/freeLow.wav","imp/freeLowRumble.wav","imp/freeLowShorter.wav", "imp/freeLowWobble.wav"], "vox": ["vox/CelliaSeeJam.wav", "vox/fateResonanceDrift.wav"]}
+
